@@ -1,0 +1,24 @@
+# UTKFace Google Colab - Gerekli Kütüphaneler
+# Google Colab'da çoğu kütüphane zaten yüklüdür
+
+# Temel veri işleme
+numpy>=1.19.0
+pandas>=1.1.0
+
+# Görsel işleme
+Pillow>=8.0.0
+matplotlib>=3.3.0
+
+# Yardımcı araçlar
+tqdm>=4.50.0
+
+# Machine Learning (Opsiyonel)
+scikit-learn>=0.24.0
+
+# Deep Learning Framework'leri (Opsiyonel)
+# tensorflow>=2.4.0
+# torch>=1.7.0
+# torchvision>=0.8.0
+
+# Kaggle API (veri indirmek için)
+# kaggle>=1.5.0
